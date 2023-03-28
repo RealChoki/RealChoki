@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rafaatchoki1999@gmail.com**
 
-- ⚡ Fun fact **I single handedly defeated the procrastination Demon :D**
+- ⚡ Fun fact **I single handedly defeated procrastination :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
