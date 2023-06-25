@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realchoki&label=Profile%20views&color=0e75b6&style=flat" alt="realchoki" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, React**
 
 - 📫 How to reach me **rafaatchoki1999@gmail.com**
 
