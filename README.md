@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, React**
 
-- 📫 How to reach me **rafaatchoki1999@gmail.com**
+- 📫 How to reach me **rafaatchoki2003@gmail.com**
 
 - 💪 Fun fact **I single handedly defeated procrastination :D**
 
