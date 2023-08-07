@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Java, React**
 
+- 🎯 I'm currently completing **CS50**
+
 - 📫 How to reach me **rafaatchoki2003@gmail.com**
 
 - 💪 Fun fact **I single handedly defeated procrastination :D**
