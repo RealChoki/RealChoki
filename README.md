@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rafaatchoki2003@gmail.com**
 
-- 💪 Fun fact **I single handedly defeated procrastination :D**
+- 💪 Fun fact **I single handedly defeated procrastination**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
