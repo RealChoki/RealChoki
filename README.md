@@ -1,3 +1,10 @@
+<style>
+  a {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+  }
+</style>
 <h1 align="center">Hi, I'm Choki 0/</h1>
 <h3 align="center">A passionate frontend developer from Germany (:</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/L3Vca26EaTIEU/giphy.gif?cid=ecf05e47uthxljgr2gxz9og4qvq0heidk7eovd02kq5dkrku&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 10px;">
